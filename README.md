@@ -1,1 +1,2 @@
-# NewCodingBot
+In the current landscape of delivery services, customers often have limited control over the store from which their orders are fulfilled. This lack of choice can lead to frustration and dissatisfaction. Additionally, stores may face challenges in reaching their target audience efficiently. Our solution seeks to empower customers by allowing them to select their preferred store, creating a more personalized and convenient shopping experience. This not only enhances customer satisfaction but also provides a platform for stores to expand their reach and grow their business.
+ITS NOT ABOUT THE ITEMS...ITS ABOUT YOUR FAVORITE STORE
